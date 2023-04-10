@@ -17,4 +17,4 @@ This repository contains all the documents that has been submitted by this group
 
 ## Demo
 
-![App Screenshot](https://im4.ezgif.com/tmp/ezgif-4-0b830793a2.gif)
+![App Screenshot](https://drive.google.com/file/d/1__pju8V6124NT1ghwEtErZm9issXM2kw/view?usp=share_link)
