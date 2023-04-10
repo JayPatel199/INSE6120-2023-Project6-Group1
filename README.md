@@ -17,4 +17,4 @@ This repository contains all the documents that has been submitted by this group
 
 ## Demo
 
-![App Screenshot](https://drive.google.com/file/d/1__pju8V6124NT1ghwEtErZm9issXM2kw/view?usp=share_link)
+![App Screenshot](https://raw.githubusercontent.com/shivammusic/INSE6120-2023-Project6-Group1/main/implementation/ezgif.com-gif-maker.gif)
