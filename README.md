@@ -4,6 +4,8 @@ Ethereum Smart Contract
 
 This repository contains all the documents that has been submitted by this group as a 6120 project.
 
+Submmited to - Prof. Ivan Pustogarov
+
 
 
 
